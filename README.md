@@ -15,4 +15,5 @@ Supervised
 - Regression
 
 Unsupervised
-- 
+- K-means
+- Perceptron (Neural Network)
