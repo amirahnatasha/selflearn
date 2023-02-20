@@ -1,5 +1,6 @@
 # selflearn
 All notes and codes for self-learn.
+All codes are written in python.
 
 ## Data Structure
 - Nodes
