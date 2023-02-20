@@ -11,7 +11,8 @@ All notes and codes for self-learn.
 
 ## Machine Learning
 Supervised
-- 
+- Classification
+- Regression
 
 Unsupervised
--
+- 
