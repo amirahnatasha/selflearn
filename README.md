@@ -14,6 +14,7 @@ All codes are written in python.
 - Sum to One, Factorial
 - Power Set Algorithm
 - Fibonacci Sequence
+- Binary Search Tree
 
 ## Machine Learning
 Supervised
