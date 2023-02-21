@@ -10,6 +10,11 @@ All codes are written in python.
 - Stacks
 - Hash Maps
 
+## Recursion
+- Sum to One, Factorial
+- Power Set Algorithm
+- Fibonacci Sequence
+
 ## Machine Learning
 Supervised
 - Classification
