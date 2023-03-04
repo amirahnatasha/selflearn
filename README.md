@@ -9,6 +9,7 @@ All codes are written in python.
 - Queues
 - Stacks
 - Hash Maps
+- Trees
 
 ## Recursion
 - Sum to One, Factorial
